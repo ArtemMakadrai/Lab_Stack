@@ -1,0 +1,8 @@
+D:/Lab_Stack/Lab_Stack/Build/CMakeFiles/ALL_BUILD.dir
+D:/Lab_Stack/Lab_Stack/Build/CMakeFiles/ZERO_CHECK.dir
+D:/Lab_Stack/Lab_Stack/Build/src/CMakeFiles/Lab_Stack.dir
+D:/Lab_Stack/Lab_Stack/Build/gui/CMakeFiles/Postfix_gui.dir
+D:/Lab_Stack/Lab_Stack/Build/samples/CMakeFiles/postfix_calc.dir
+D:/Lab_Stack/Lab_Stack/Build/gtest/CMakeFiles/gtest.dir
+D:/Lab_Stack/Lab_Stack/Build/tests/CMakeFiles/tests_Lab_Stack.dir
+D:/Lab_Stack/Lab_Stack/Build/queuegui/CMakeFiles/queuegui.dir
